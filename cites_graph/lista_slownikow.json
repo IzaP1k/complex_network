@@ -1,0 +1,1352 @@
+[
+    {
+        "title": "An analysis of performance evaluation for motor-imagery based BCI",
+        "title_link": "https://iopscience.iop.org/article/10.1088/1741-2560/10/3/031001/meta",
+        "displayed_link": "E Thomas, M Dyson, M Clerc - Journal of neural engineering, 2013 - iopscience.iop.org",
+        "cited_by_count": "Cytowane przez 129",
+        "cited_link": "https://scholar.google.com/scholar?cites=375576477416609558&as_sdt=2005&sciodt=0,5&hl=pl",
+        "id": 0,
+        "cites": []
+    },
+    {
+        "title": "Electroencephalographic motor imagery brain connectivity analysis for BCI: a review",
+        "title_link": "https://ieeexplore.ieee.org/abstract/document/7482947/",
+        "displayed_link": "M Hamedi, SH Salleh, AM Noor - Neural computation, 2016 - ieeexplore.ieee.org",
+        "cited_by_count": "Cytowane przez 242",
+        "cited_link": "https://scholar.google.com/scholar?cites=6196227494964255657&as_sdt=2005&sciodt=0,5&hl=pl",
+        "id": 1,
+        "cites": []
+    },
+    {
+        "title": "Most popular signal processing methods in motor-imagery BCI: a review and meta-analysis",
+        "title_link": "https://www.frontiersin.org/articles/10.3389/fninf.2018.00078/full",
+        "displayed_link": "P Wierzgała, D Zapała, GM Wojcik… - Frontiers in …, 2018 - frontiersin.org",
+        "cited_by_count": "Cytowane przez 111",
+        "cited_link": "https://scholar.google.com/scholar?cites=11643917747557996379&as_sdt=2005&sciodt=0,5&hl=pl",
+        "id": 2,
+        "cites": []
+    },
+    {
+        "title": "Characterization of four-class motor imagery EEG data for the BCI-competition 2005",
+        "title_link": "https://iopscience.iop.org/article/10.1088/1741-2560/2/4/L02/meta",
+        "displayed_link": "A Schlögl, F Lee, H Bischof… - Journal of neural …, 2005 - iopscience.iop.org",
+        "cited_by_count": "Cytowane przez 576",
+        "cited_link": "https://scholar.google.com/scholar?cites=17362687503344702858&as_sdt=2005&sciodt=0,5&hl=pl",
+        "id": 3,
+        "cites": []
+    },
+    {
+        "title": "Neurofeedback-based motor imagery training for brain–computer interface (BCI)",
+        "title_link": "https://www.sciencedirect.com/science/article/pii/S0165027009000454",
+        "displayed_link": "HJ Hwang, K Kwon, CH Im - Journal of neuroscience methods, 2009 - Elsevier",
+        "cited_by_count": "Cytowane przez 344",
+        "cited_link": "https://scholar.google.com/scholar?cites=13598107747936718075&as_sdt=2005&sciodt=0,5&hl=pl",
+        "id": 4,
+        "cites": []
+    },
+    {
+        "title": "Enhanced motor imagery training using a hybrid BCI with feedback",
+        "title_link": "https://ieeexplore.ieee.org/abstract/document/7038194/",
+        "displayed_link": "T Yu, J Xiao, F Wang, R Zhang, Z Gu… - IEEE Transactions …, 2015 - ieeexplore.ieee.org",
+        "cited_by_count": "Cytowane przez 138",
+        "cited_link": "https://scholar.google.com/scholar?cites=9045396180059755605&as_sdt=2005&sciodt=0,5&hl=pl",
+        "id": 5,
+        "cites": []
+    },
+    {
+        "title": "Classification of motor imagery BCI using multivariate empirical mode decomposition",
+        "title_link": "https://ieeexplore.ieee.org/abstract/document/6362235/",
+        "displayed_link": "C Park, D Looney, N ur Rehman… - … on neural systems …, 2012 - ieeexplore.ieee.org",
+        "cited_by_count": "Cytowane przez 296",
+        "cited_link": "https://scholar.google.com/scholar?cites=12256212768551218407&as_sdt=2005&sciodt=0,5&hl=pl",
+        "id": 6,
+        "cites": []
+    },
+    {
+        "title": "Continuous EEG classification during motor imagery-simulation of an asynchronous BCI",
+        "title_link": "https://ieeexplore.ieee.org/abstract/document/1304866/",
+        "displayed_link": "G Townsend, B Graimann… - IEEE Transactions on …, 2004 - ieeexplore.ieee.org",
+        "cited_by_count": "Cytowane przez 364",
+        "cited_link": "https://scholar.google.com/scholar?cites=18168660607018524402&as_sdt=2005&sciodt=0,5&hl=pl",
+        "id": 7,
+        "cites": []
+    },
+    {
+        "title": "Comparison of signal decomposition methods in classification of EEG signals for motor-imagery BCI system",
+        "title_link": "https://www.sciencedirect.com/science/article/pii/S1746809416301331",
+        "displayed_link": "J Kevric, A Subasi - Biomedical Signal Processing and Control, 2017 - Elsevier",
+        "cited_by_count": "Cytowane przez 483",
+        "cited_link": "https://scholar.google.com/scholar?cites=11371873646642273995&as_sdt=2005&sciodt=0,5&hl=pl",
+        "id": 8,
+        "cites": []
+    },
+    {
+        "title": "[HTML][HTML] Review on motor imagery based BCI systems for upper limb post-stroke neurorehabilitation: From designing to application",
+        "title_link": "https://www.sciencedirect.com/science/article/pii/S0010482520302031",
+        "displayed_link": "MA Khan, R Das, HK Iversen… - Computers in biology and …, 2020 - Elsevier",
+        "cited_by_count": "Cytowane przez 206",
+        "cited_link": "https://scholar.google.com/scholar?cites=8149659051887159014&as_sdt=2005&sciodt=0,5&hl=pl",
+        "id": 9,
+        "cites": []
+    },
+    {
+        "title": "First steps toward a motor imagery based stroke BCI: new strategy to set up a classifier",
+        "title_link": "https://www.frontiersin.org/articles/10.3389/fnins.2011.00086/full",
+        "displayed_link": "V Kaiser, A Kreilinger, GR Müller-Putz… - Frontiers in …, 2011 - frontiersin.org",
+        "cited_by_count": "Cytowane przez 133",
+        "cited_link": "https://scholar.google.com/scholar?cites=14184272590015698879&as_sdt=2005&sciodt=0,5&hl=pl",
+        "id": 10,
+        "cites": []
+    },
+    {
+        "title": "Multisubject learning for common spatial patterns in motor‐imagery BCI",
+        "title_link": "https://onlinelibrary.wiley.com/doi/abs/10.1155/2011/217987",
+        "displayed_link": "D Devlaminck, B Wyns… - Computational …, 2011 - Wiley Online Library",
+        "cited_by_count": "Cytowane przez 127",
+        "cited_link": "https://scholar.google.com/scholar?cites=10123601364752028770&as_sdt=2005&sciodt=0,5&hl=pl",
+        "id": 11,
+        "cites": []
+    },
+    {
+        "title": "Improved SFFS method for channel selection in motor imagery based BCI",
+        "title_link": "https://www.sciencedirect.com/science/article/pii/S0925231216303745",
+        "displayed_link": "Z Qiu, J Jin, HK Lam, Y Zhang, X Wang, A Cichocki - Neurocomputing, 2016 - Elsevier",
+        "cited_by_count": "Cytowane przez 146",
+        "cited_link": "https://scholar.google.com/scholar?cites=17758807356392788409&as_sdt=2005&sciodt=0,5&hl=pl",
+        "id": 12,
+        "cites": []
+    },
+    {
+        "title": "A csp\\am-ba-svm approach for motor imagery bci system",
+        "title_link": "https://ieeexplore.ieee.org/abstract/document/8452948/",
+        "displayed_link": "S Selim, MM Tantawi, HA Shedeed, A Badr - Ieee Access, 2018 - ieeexplore.ieee.org",
+        "cited_by_count": "Cytowane przez 142",
+        "cited_link": "https://scholar.google.com/scholar?cites=4238256790087479691&as_sdt=2005&sciodt=0,5&hl=pl",
+        "id": 13,
+        "cites": []
+    },
+    {
+        "title": "A polynomial fitting and k-NN based approach for improving classification of motor imagery BCI data",
+        "title_link": "https://www.sciencedirect.com/science/article/pii/S0167865510001212",
+        "displayed_link": "T Kayikcioglu, O Aydemir - Pattern Recognition Letters, 2010 - Elsevier",
+        "cited_by_count": "Cytowane przez 147",
+        "cited_link": "https://scholar.google.com/scholar?cites=860625066300347602&as_sdt=2005&sciodt=0,5&hl=pl",
+        "id": 14,
+        "cites": []
+    },
+    {
+        "title": "How to successfully classify EEG in motor imagery BCI: a metrological analysis of the state of the art",
+        "title_link": "https://iopscience.iop.org/article/10.1088/1741-2552/ac74e0/meta",
+        "displayed_link": "P Arpaia, A Esposito, A Natalizio… - Journal of Neural …, 2022 - iopscience.iop.org",
+        "cited_by_count": "Cytowane przez 73",
+        "cited_link": "https://scholar.google.com/scholar?cites=4155117888486108312&as_sdt=2005&sciodt=0,5&hl=pl",
+        "id": 15,
+        "cites": []
+    },
+    {
+        "title": "A sliding window common spatial pattern for enhancing motor imagery classification in EEG-BCI",
+        "title_link": "https://ieeexplore.ieee.org/abstract/document/9326392/",
+        "displayed_link": "P Gaur, H Gupta, A Chowdhury… - IEEE Transactions …, 2021 - ieeexplore.ieee.org",
+        "cited_by_count": "Cytowane przez 189",
+        "cited_link": "https://scholar.google.com/scholar?cites=17809295162996804349&as_sdt=2005&sciodt=0,5&hl=pl",
+        "id": 16,
+        "cites": []
+    },
+    {
+        "title": "Separable common spatio-spectral patterns for motor imagery BCI systems",
+        "title_link": "https://ieeexplore.ieee.org/abstract/document/7293143/",
+        "displayed_link": "AS Aghaei, MS Mahanta… - IEEE Transactions on …, 2015 - ieeexplore.ieee.org",
+        "cited_by_count": "Cytowane przez 178",
+        "cited_link": "https://scholar.google.com/scholar?cites=2528866716033861350&as_sdt=2005&sciodt=0,5&hl=pl",
+        "id": 17,
+        "cites": []
+    },
+    {
+        "title": "High theta and low alpha powers may be indicative of BCI-illiteracy in motor imagery",
+        "title_link": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0080886",
+        "displayed_link": "M Ahn, H Cho, S Ahn, SC Jun - PloS one, 2013 - journals.plos.org",
+        "cited_by_count": "Cytowane przez 238",
+        "cited_link": "https://scholar.google.com/scholar?cites=3280962219668373102&as_sdt=2005&sciodt=0,5&hl=pl",
+        "id": 18,
+        "cites": []
+    },
+    {
+        "title": "Active training paradigm for motor imagery BCI",
+        "title_link": "https://link.springer.com/article/10.1007/s00221-012-3084-x",
+        "displayed_link": "J Li, L Zhang - Experimental brain research, 2012 - Springer",
+        "cited_by_count": "Cytowane przez 45",
+        "cited_link": "https://scholar.google.com/scholar?cites=13016116157127818232&as_sdt=2005&sciodt=0,5&hl=pl",
+        "id": 19,
+        "cites": []
+    },
+    {
+        "title": "Temporally constrained sparse group spatial patterns for motor imagery BCI",
+        "title_link": "https://ieeexplore.ieee.org/abstract/document/8386437/",
+        "displayed_link": "Y Zhang, CS Nam, G Zhou, J Jin… - IEEE transactions on …, 2018 - ieeexplore.ieee.org",
+        "cited_by_count": "Cytowane przez 335",
+        "cited_link": "https://scholar.google.com/scholar?cites=5880064699046531520&as_sdt=2005&sciodt=0,5&hl=pl",
+        "id": 20,
+        "cites": []
+    },
+    {
+        "title": "Combining motor imagery with selective sensation toward a hybrid-modality BCI",
+        "title_link": "https://ieeexplore.ieee.org/abstract/document/6656910/",
+        "displayed_link": "L Yao, J Meng, D Zhang, X Sheng… - IEEE Transactions on …, 2013 - ieeexplore.ieee.org",
+        "cited_by_count": "Cytowane przez 100",
+        "cited_link": "https://scholar.google.com/scholar?cites=1352133553030750386&as_sdt=2005&sciodt=0,5&hl=pl",
+        "id": 21,
+        "cites": []
+    },
+    {
+        "title": "Common Bayesian network for classification of EEG-based multiclass motor imagery BCI",
+        "title_link": "https://ieeexplore.ieee.org/abstract/document/7167726/",
+        "displayed_link": "L He, D Hu, M Wan, Y Wen… - … on Systems, man …, 2015 - ieeexplore.ieee.org",
+        "cited_by_count": "Cytowane przez 165",
+        "cited_link": "https://scholar.google.com/scholar?cites=5288008762804078853&as_sdt=2005&sciodt=0,5&hl=pl",
+        "id": 22,
+        "cites": []
+    },
+    {
+        "title": "Performance variation in motor imagery brain–computer interface: a brief review",
+        "title_link": "https://www.sciencedirect.com/science/article/pii/S0165027015000400",
+        "displayed_link": "M Ahn, SC Jun - Journal of neuroscience methods, 2015 - Elsevier",
+        "cited_by_count": "Cytowane przez 359",
+        "cited_link": "https://scholar.google.com/scholar?cites=16226063753042319076&as_sdt=2005&sciodt=0,5&hl=pl",
+        "id": 23,
+        "cites": []
+    },
+    {
+        "title": "Improving motor imagery BCI with user response to feedback",
+        "title_link": "https://www.tandfonline.com/doi/abs/10.1080/2326263X.2017.1303253",
+        "displayed_link": "M Mousavi, AS Koerner, Q Zhang, E Noh… - Brain-Computer …, 2017 - Taylor & Francis",
+        "cited_by_count": "Cytowane przez 41",
+        "cited_link": "https://scholar.google.com/scholar?cites=16350025770531733444&as_sdt=2005&sciodt=0,5&hl=pl",
+        "id": 24,
+        "cites": []
+    },
+    {
+        "title": "Classification of motor imagery EEG using deep learning increases performance in inefficient BCI users",
+        "title_link": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0268880",
+        "displayed_link": "N Tibrewal, N Leeuwis, M Alimardani - Plos one, 2022 - journals.plos.org",
+        "cited_by_count": "Cytowane przez 63",
+        "cited_link": "https://scholar.google.com/scholar?cites=11279812268679935301&as_sdt=2005&sciodt=0,5&hl=pl",
+        "id": 25,
+        "cites": []
+    },
+    {
+        "title": "Common spatial pattern method for channel selelction in motor imagery based brain-computer interface",
+        "title_link": "https://ieeexplore.ieee.org/abstract/document/1615701/",
+        "displayed_link": "Y Wang, S Gao, X Gao - … in medicine and biology 27th annual …, 2006 - ieeexplore.ieee.org",
+        "cited_by_count": "Cytowane przez 507",
+        "cited_link": "https://scholar.google.com/scholar?cites=10387861145510233374&as_sdt=2005&sciodt=0,5&hl=pl",
+        "id": 26,
+        "cites": []
+    },
+    {
+        "title": "Separated channel convolutional neural network to realize the training free motor imagery BCI systems",
+        "title_link": "https://www.sciencedirect.com/science/article/pii/S1746809418303264",
+        "displayed_link": "X Zhu, P Li, C Li, D Yao, R Zhang, P Xu - Biomedical Signal Processing …, 2019 - Elsevier",
+        "cited_by_count": "Cytowane przez 115",
+        "cited_link": "https://scholar.google.com/scholar?cites=17633418084365083566&as_sdt=2005&sciodt=0,5&hl=pl",
+        "id": 27,
+        "cites": []
+    },
+    {
+        "title": "Motor imagery and direct brain-computer communication",
+        "title_link": "https://ieeexplore.ieee.org/abstract/document/939829/",
+        "displayed_link": "G Pfurtscheller, C Neuper - Proceedings of the IEEE, 2001 - ieeexplore.ieee.org",
+        "cited_by_count": "Cytowane przez 2351",
+        "cited_link": "https://scholar.google.com/scholar?cites=2131586621982072706&as_sdt=2005&sciodt=0,5&hl=pl",
+        "id": 28,
+        "cites": []
+    },
+    {
+        "title": "Multi-class filter bank common spatial pattern for four-class motor imagery BCI",
+        "title_link": "https://ieeexplore.ieee.org/abstract/document/5332383/",
+        "displayed_link": "ZY Chin, KK Ang, C Wang, C Guan… - … conference of the IEEE …, 2009 - ieeexplore.ieee.org",
+        "cited_by_count": "Cytowane przez 143",
+        "cited_link": "https://scholar.google.com/scholar?cites=16464643990838183544&as_sdt=2005&sciodt=0,5&hl=pl",
+        "id": 29,
+        "cites": []
+    },
+    {
+        "title": "Two brains, one game: design and evaluation of a multiuser BCI video game based on motor imagery",
+        "title_link": "https://ieeexplore.ieee.org/abstract/document/6400237/",
+        "displayed_link": "L Bonnet, F Lotte, A Lécuyer - IEEE Transactions on …, 2013 - ieeexplore.ieee.org",
+        "cited_by_count": "Cytowane przez 221",
+        "cited_link": "https://scholar.google.com/scholar?cites=16447576439256312850&as_sdt=2005&sciodt=0,5&hl=pl",
+        "id": 30,
+        "cites": []
+    },
+    {
+        "title": "Analysis and classification of hybrid BCI based on motor imagery and speech imagery",
+        "title_link": "https://www.sciencedirect.com/science/article/pii/S0263224119306992",
+        "displayed_link": "L Wang, X Liu, Z Liang, Z Yang, X Hu - Measurement, 2019 - Elsevier",
+        "cited_by_count": "Cytowane przez 48",
+        "cited_link": "https://scholar.google.com/scholar?cites=17935778175012349930&as_sdt=2005&sciodt=0,5&hl=pl",
+        "id": 31,
+        "cites": []
+    },
+    {
+        "title": "A BCI system based on motor imagery for assisting people with motor deficiencies in the limbs",
+        "title_link": "https://www.mdpi.com/2076-3425/10/11/864",
+        "displayed_link": "O Attallah, J Abougharbia, M Tamazin, AA Nasser - Brain sciences, 2020 - mdpi.com",
+        "cited_by_count": "Cytowane przez 62",
+        "cited_link": "https://scholar.google.com/scholar?cites=2564775833821519273&as_sdt=2005&sciodt=0,5&hl=pl",
+        "id": 32,
+        "cites": []
+    },
+    {
+        "title": "[HTML][HTML] Signal processing techniques for motor imagery brain computer interface: A review",
+        "title_link": "https://www.sciencedirect.com/science/article/pii/S2590005619300037",
+        "displayed_link": "S Aggarwal, N Chugh - Array, 2019 - Elsevier",
+        "cited_by_count": "Cytowane przez 217",
+        "cited_link": "https://scholar.google.com/scholar?cites=3208749155552150662&as_sdt=2005&sciodt=0,5&hl=pl",
+        "id": 33,
+        "cites": []
+    },
+    {
+        "title": "Analysis the effect of PCA for feature reduction in non-stationary EEG based motor imagery of BCI system",
+        "title_link": "https://www.sciencedirect.com/science/article/pii/S0030402613012473",
+        "displayed_link": "X Yu, P Chum, KB Sim - Optik, 2014 - Elsevier",
+        "cited_by_count": "Cytowane przez 152",
+        "cited_link": "https://scholar.google.com/scholar?cites=14412601159427815891&as_sdt=2005&sciodt=0,5&hl=pl",
+        "id": 34,
+        "cites": []
+    },
+    {
+        "title": "Motor imagery classification by means of source analysis for brain–computer interface applications",
+        "title_link": "https://iopscience.iop.org/article/10.1088/1741-2560/1/3/002/meta",
+        "displayed_link": "L Qin, L Ding, B He - Journal of neural engineering, 2004 - iopscience.iop.org",
+        "cited_by_count": "Cytowane przez 296",
+        "cited_link": "https://scholar.google.com/scholar?cites=10050501625678638897&as_sdt=2005&sciodt=0,5&hl=pl",
+        "id": 35,
+        "cites": []
+    },
+    {
+        "title": "The hybrid BCI system for movement control by combining motor imagery and moving onset visual evoked potential",
+        "title_link": "https://iopscience.iop.org/article/10.1088/1741-2552/aa5d5f/meta",
+        "displayed_link": "T Ma, H Li, L Deng, H Yang, X Lv, P Li… - Journal of neural …, 2017 - iopscience.iop.org",
+        "cited_by_count": "Cytowane przez 106",
+        "cited_link": "https://scholar.google.com/scholar?cites=16176360296041221090&as_sdt=2005&sciodt=0,5&hl=pl",
+        "id": 36,
+        "cites": []
+    },
+    {
+        "title": "Information theoretic approaches for motor-imagery BCI systems: review and experimental comparison",
+        "title_link": "https://www.mdpi.com/1099-4300/20/1/7",
+        "displayed_link": "R Martín-Clemente, J Olias, DB Thiyam, A Cichocki… - Entropy, 2018 - mdpi.com",
+        "cited_by_count": "Cytowane przez 35",
+        "cited_link": "https://scholar.google.com/scholar?cites=1646619034123899461&as_sdt=2005&sciodt=0,5&hl=pl",
+        "id": 37,
+        "cites": []
+    },
+    {
+        "title": "A novel channel selection method for optimal classification in different motor imagery BCI paradigms",
+        "title_link": "https://link.springer.com/article/10.1186/s12938-015-0087-4",
+        "displayed_link": "H Shan, H Xu, S Zhu, B He - Biomedical engineering online, 2015 - Springer",
+        "cited_by_count": "Cytowane przez 68",
+        "cited_link": "https://scholar.google.com/scholar?cites=5126371607450485329&as_sdt=2005&sciodt=0,5&hl=pl",
+        "id": 38,
+        "cites": []
+    },
+    {
+        "title": "Features based on analytic IMF for classifying motor imagery EEG signals in BCI applications",
+        "title_link": "https://www.sciencedirect.com/science/article/pii/S0263224117307029",
+        "displayed_link": "S Taran, V Bajaj, D Sharma, S Siuly, A Sengur - Measurement, 2018 - Elsevier",
+        "cited_by_count": "Cytowane przez 90",
+        "cited_link": "https://scholar.google.com/scholar?cites=13705387920590750442&as_sdt=2005&sciodt=0,5&hl=pl",
+        "id": 39,
+        "cites": []
+    },
+    {
+        "title": "Motor imagery classification in Brain computer interface (BCI) based on EEG signal by using machine learning technique",
+        "title_link": "https://beei.org/index.php/EEI/article/view/1402",
+        "displayed_link": "NEM Isa, A Amir, MZ Ilyas, MS Razalli - Bulletin of Electrical Engineering …, 2019 - beei.org",
+        "cited_by_count": "Cytowane przez 68",
+        "cited_link": "https://scholar.google.com/scholar?cites=4863584354288362040&as_sdt=2005&sciodt=0,5&hl=pl",
+        "id": 40,
+        "cites": []
+    },
+    {
+        "title": "Simultaneous real-time detection of motor imagery and error-related potentials for improved BCI accuracy",
+        "title_link": "https://infoscience.epfl.ch/entities/publication/6a099d8c-b7af-413f-b4f3-421eddac16c5",
+        "displayed_link": "PW Ferrez, JR Millán - … 4th international brain-computer interface …, 2008 - infoscience.epfl.ch",
+        "cited_by_count": "Cytowane przez 126",
+        "cited_link": "https://scholar.google.com/scholar?cites=8202873725063958977&as_sdt=2005&sciodt=0,5&hl=pl",
+        "id": 41,
+        "cites": []
+    },
+    {
+        "title": "Efficacy and brain imaging correlates of an immersive motor imagery BCI-driven VR system for upper limb motor rehabilitation: A clinical case report",
+        "title_link": "https://www.frontiersin.org/articles/10.3389/fnhum.2019.00244/full",
+        "displayed_link": "A Vourvopoulos, C Jorge, R Abreu… - Frontiers in human …, 2019 - frontiersin.org",
+        "cited_by_count": "Cytowane przez 151",
+        "cited_link": "https://scholar.google.com/scholar?cites=14135478487543938052&as_sdt=2005&sciodt=0,5&hl=pl",
+        "id": 42,
+        "cites": []
+    },
+    {
+        "title": "Combined motor imagery and SSVEP based BCI control of a 2 DoF artificial upper limb",
+        "title_link": "https://link.springer.com/article/10.1007/s11517-011-0750-2",
+        "displayed_link": "P Horki, T Solis-Escalante, C Neuper… - Medical & biological …, 2011 - Springer",
+        "cited_by_count": "Cytowane przez 163",
+        "cited_link": "https://scholar.google.com/scholar?cites=15945131089067549962&as_sdt=2005&sciodt=0,5&hl=pl",
+        "id": 43,
+        "cites": []
+    },
+    {
+        "title": "From classic motor imagery to complex movement intention decoding: the noninvasive Graz-BCI approach",
+        "title_link": "https://www.sciencedirect.com/science/article/pii/S0079612316300437",
+        "displayed_link": "GR Müller-Putz, A Schwarz, J Pereira, P Ofner - Progress in brain research, 2016 - Elsevier",
+        "cited_by_count": "Cytowane przez 82",
+        "cited_link": "https://scholar.google.com/scholar?cites=11804953564539342572&as_sdt=2005&sciodt=0,5&hl=pl",
+        "id": 44,
+        "cites": []
+    },
+    {
+        "title": "Structural and functional correlates of motor imagery BCI performance: Insights from the patterns of fronto-parietal attention network",
+        "title_link": "https://www.sciencedirect.com/science/article/pii/S1053811916300702",
+        "displayed_link": "T Zhang, T Liu, F Li, M Li, D Liu, R Zhang, H He, P Li… - NeuroImage, 2016 - Elsevier",
+        "cited_by_count": "Cytowane przez 107",
+        "cited_link": "https://scholar.google.com/scholar?cites=2198638245215967054&as_sdt=2005&sciodt=0,5&hl=pl",
+        "id": 45,
+        "cites": []
+    },
+    {
+        "title": "EEG datasets for motor imagery brain–computer interface",
+        "title_link": "https://academic.oup.com/gigascience/article-abstract/6/7/gix034/3796323",
+        "displayed_link": "H Cho, M Ahn, S Ahn, M Kwon, SC Jun - GigaScience, 2017 - academic.oup.com",
+        "cited_by_count": "Cytowane przez 309",
+        "cited_link": "https://scholar.google.com/scholar?cites=18071536494435897355&as_sdt=2005&sciodt=0,5&hl=pl",
+        "id": 46,
+        "cites": []
+    },
+    {
+        "title": "Motor imagery BCI classification based on multivariate variational mode decomposition",
+        "title_link": "https://ieeexplore.ieee.org/abstract/document/9714727/",
+        "displayed_link": "MT Sadiq, X Yu, Z Yuan, MZ Aziz… - … on Emerging Topics …, 2022 - ieeexplore.ieee.org",
+        "cited_by_count": "Cytowane przez 50",
+        "cited_link": "https://scholar.google.com/scholar?cites=15327869032522355534&as_sdt=2005&sciodt=0,5&hl=pl",
+        "id": 47,
+        "cites": []
+    },
+    {
+        "title": "Motor imagery BCI classification based on novel two‐dimensional modelling in empirical wavelet transform",
+        "title_link": "https://ietresearch.onlinelibrary.wiley.com/doi/abs/10.1049/el.2020.2509",
+        "displayed_link": "MT Sadiq, X Yu, Z Yuan, MZ Aziz - Electronics Letters, 2020 - Wiley Online Library",
+        "cited_by_count": "Cytowane przez 99",
+        "cited_link": "https://scholar.google.com/scholar?cites=2013744708313111988&as_sdt=2005&sciodt=0,5&hl=pl",
+        "id": 48,
+        "cites": []
+    },
+    {
+        "title": "Shallow convolutional network excel for classifying motor imagery EEG in BCI applications",
+        "title_link": "https://ieeexplore.ieee.org/abstract/document/9461749/",
+        "displayed_link": "DM Hermosilla, RT Codorniú, RL Baracaldo… - IEEE …, 2021 - ieeexplore.ieee.org",
+        "cited_by_count": "Cytowane przez 43",
+        "cited_link": "https://scholar.google.com/scholar?cites=11332144152048051565&as_sdt=2005&sciodt=0,5&hl=pl",
+        "id": 49,
+        "cites": []
+    },
+    {
+        "title": "Brain–computer interface boosts motor imagery practice during stroke recovery",
+        "title_link": "https://onlinelibrary.wiley.com/doi/abs/10.1002/ana.24390",
+        "displayed_link": "F Pichiorri, G Morone, M Petti, J Toppi… - Annals of …, 2015 - Wiley Online Library",
+        "cited_by_count": "Cytowane przez 654",
+        "cited_link": "https://scholar.google.com/scholar?cites=12200297943794126137&as_sdt=2005&sciodt=0,5&hl=pl",
+        "id": 50,
+        "cites": []
+    },
+    {
+        "title": "A novel method to reduce the motor imagery BCI illiteracy",
+        "title_link": "https://link.springer.com/article/10.1007/s11517-021-02449-0",
+        "displayed_link": "T Wang, S Du, E Dong - Medical & Biological Engineering & Computing, 2021 - Springer",
+        "cited_by_count": "Cytowane przez 13",
+        "cited_link": "https://scholar.google.com/scholar?cites=14483816888991663008&as_sdt=2005&sciodt=0,5&hl=pl",
+        "id": 51,
+        "cites": []
+    },
+    {
+        "title": "An automatic subject specific channel selection method for enhancing motor imagery classification in EEG-BCI using correlation",
+        "title_link": "https://www.sciencedirect.com/science/article/pii/S1746809421001713",
+        "displayed_link": "P Gaur, K McCreadie, RB Pachori, H Wang… - … Signal Processing and …, 2021 - Elsevier",
+        "cited_by_count": "Cytowane przez 71",
+        "cited_link": "https://scholar.google.com/scholar?cites=14949488053366083650&as_sdt=2005&sciodt=0,5&hl=pl",
+        "id": 52,
+        "cites": []
+    },
+    {
+        "title": "Implementation of a brain-computer interface based on three states of motor imagery",
+        "title_link": "https://ieeexplore.ieee.org/abstract/document/4353477/",
+        "displayed_link": "Y Wang, B Hong, X Gao, S Gao - 2007 29th Annual …, 2007 - ieeexplore.ieee.org",
+        "cited_by_count": "Cytowane przez 91",
+        "cited_link": "https://scholar.google.com/scholar?cites=14453848082915079297&as_sdt=2005&sciodt=0,5&hl=pl",
+        "id": 53,
+        "cites": []
+    },
+    {
+        "title": "Analysis and classification of speech imagery EEG for BCI",
+        "title_link": "https://www.sciencedirect.com/science/article/pii/S1746809413001122",
+        "displayed_link": "L Wang, X Zhang, X Zhong, Y Zhang - Biomedical signal processing and …, 2013 - Elsevier",
+        "cited_by_count": "Cytowane przez 169",
+        "cited_link": "https://scholar.google.com/scholar?cites=745148817004811116&as_sdt=2005&sciodt=0,5&hl=pl",
+        "id": 54,
+        "cites": []
+    },
+    {
+        "title": "Improving performance in motor imagery BCI-based control applications via virtually embodied feedback",
+        "title_link": "https://www.sciencedirect.com/science/article/pii/S0010482520304108",
+        "displayed_link": "JW Choi, S Huh, S Jo - Computers in Biology and Medicine, 2020 - Elsevier",
+        "cited_by_count": "Cytowane przez 52",
+        "cited_link": "https://scholar.google.com/scholar?cites=1820591848633065813&as_sdt=2005&sciodt=0,5&hl=pl",
+        "id": 55,
+        "cites": []
+    },
+    {
+        "title": "Post-stroke rehabilitation training with a motor-imagery-based brain-computer interface (BCI)-controlled hand exoskeleton: a randomized controlled multicenter trial",
+        "title_link": "https://www.frontiersin.org/articles/10.3389/fnins.2017.00400/full",
+        "displayed_link": "AA Frolov, O Mokienko, R Lyukmanov… - Frontiers in …, 2017 - frontiersin.org",
+        "cited_by_count": "Cytowane przez 363",
+        "cited_link": "https://scholar.google.com/scholar?cites=4410217273182033799&as_sdt=2005&sciodt=0,5&hl=pl",
+        "id": 56,
+        "cites": []
+    },
+    {
+        "title": "A hybrid BCI based on EEG and fNIRS signals improves the performance of decoding motor imagery of both force and speed of hand clenching",
+        "title_link": "https://iopscience.iop.org/article/10.1088/1741-2560/12/3/036004/meta",
+        "displayed_link": "X Yin, B Xu, C Jiang, Y Fu, Z Wang… - Journal of neural …, 2015 - iopscience.iop.org",
+        "cited_by_count": "Cytowane przez 145",
+        "cited_link": "https://scholar.google.com/scholar?cites=12413662069791825791&as_sdt=2005&sciodt=0,5&hl=pl",
+        "id": 57,
+        "cites": []
+    },
+    {
+        "title": "Deep recurrent spatio-temporal neural network for motor imagery based BCI",
+        "title_link": "https://ieeexplore.ieee.org/abstract/document/8311535/",
+        "displayed_link": "W Ko, J Yoon, E Kang, E Jun, JS Choi… - … -Computer Interface  …, 2018 - ieeexplore.ieee.org",
+        "cited_by_count": "Cytowane przez 43",
+        "cited_link": "https://scholar.google.com/scholar?cites=2830802930227210179&as_sdt=2005&sciodt=0,5&hl=pl",
+        "id": 58,
+        "cites": []
+    },
+    {
+        "title": "Neural network-based three-class motor imagery classification using time-domain features for BCI applications",
+        "title_link": "https://ieeexplore.ieee.org/abstract/document/6863026/",
+        "displayed_link": "M Hamedi, SH Salleh, AM Noor… - 2014 IEEE region 10 …, 2014 - ieeexplore.ieee.org",
+        "cited_by_count": "Cytowane przez 78",
+        "cited_link": "https://scholar.google.com/scholar?cites=12344343581214948684&as_sdt=2005&sciodt=0,5&hl=pl",
+        "id": 59,
+        "cites": []
+    },
+    {
+        "title": "A minimal set of electrodes for motor imagery BCI to control an assistive device in chronic stroke subjects: a multi-session study",
+        "title_link": "https://ieeexplore.ieee.org/abstract/document/6034528/",
+        "displayed_link": "WK Tam, K Tong, F Meng, S Gao - IEEE Transactions on …, 2011 - ieeexplore.ieee.org",
+        "cited_by_count": "Cytowane przez 131",
+        "cited_link": "https://scholar.google.com/scholar?cites=13232560647293898449&as_sdt=2005&sciodt=0,5&hl=pl",
+        "id": 60,
+        "cites": []
+    },
+    {
+        "title": "Classification of EEG-based single-trial motor imagery tasks using a B-CSP method for BCI",
+        "title_link": "https://link.springer.com/article/10.1631/FITEE.1800083",
+        "displayed_link": "Z Tang, C Li, J Wu, P Liu, S Cheng - Frontiers of Information Technology & …, 2019 - Springer",
+        "cited_by_count": "Cytowane przez 65",
+        "cited_link": "https://scholar.google.com/scholar?cites=532924800199126445&as_sdt=2005&sciodt=0,5&hl=pl",
+        "id": 61,
+        "cites": []
+    },
+    {
+        "title": "Comparison of EEG signal decomposition methods in classification of motor-imagery BCI",
+        "title_link": "https://link.springer.com/article/10.1007/s11042-017-5586-9",
+        "displayed_link": "EA Mohamed, MZ Yusoff, AS Malik, MR Bahloul… - Multimedia Tools and …, 2018 - Springer",
+        "cited_by_count": "Cytowane przez 34",
+        "cited_link": "https://scholar.google.com/scholar?cites=2689542418052911161&as_sdt=2005&sciodt=0,5&hl=pl",
+        "id": 62,
+        "cites": []
+    },
+    {
+        "title": "Asynchronous BCI based on motor imagery with automated calibration and neurofeedback training",
+        "title_link": "https://ieeexplore.ieee.org/abstract/document/6311479/",
+        "displayed_link": "R Kus, D Valbuena, J Zygierewicz… - … on Neural Systems …, 2012 - ieeexplore.ieee.org",
+        "cited_by_count": "Cytowane przez 88",
+        "cited_link": "https://scholar.google.com/scholar?cites=12423069309528505334&as_sdt=2005&sciodt=0,5&hl=pl",
+        "id": 63,
+        "cites": []
+    },
+    {
+        "title": "Clinical evaluation of BrainTree, a motor imagery hybrid BCI speller",
+        "title_link": "https://iopscience.iop.org/article/10.1088/1741-2560/11/3/036003/meta",
+        "displayed_link": "S Perdikis, R Leeb, J Williamson… - Journal of neural …, 2014 - iopscience.iop.org",
+        "cited_by_count": "Cytowane przez 88",
+        "cited_link": "https://scholar.google.com/scholar?cites=1702214736948819177&as_sdt=2005&sciodt=0,5&hl=pl",
+        "id": 64,
+        "cites": []
+    },
+    {
+        "title": "The control of a virtual automatic car based on multiple patterns of motor imagery BCI",
+        "title_link": "https://link.springer.com/article/10.1007/s11517-018-1883-3",
+        "displayed_link": "H Wang, T Li, A Bezerianos, H Huang, Y He… - Medical & biological …, 2019 - Springer",
+        "cited_by_count": "Cytowane przez 32",
+        "cited_link": "https://scholar.google.com/scholar?cites=1847098253127921068&as_sdt=2005&sciodt=0,5&hl=pl",
+        "id": 65,
+        "cites": []
+    },
+    {
+        "title": "Human factors engineering of BCI: An evaluation for satisfaction of BCI based on motor imagery",
+        "title_link": "https://link.springer.com/article/10.1007/s11571-022-09808-z",
+        "displayed_link": "X Lyu, P Ding, S Li, Y Dong, L Su, L Zhao… - Cognitive …, 2023 - Springer",
+        "cited_by_count": "Cytowane przez 16",
+        "cited_link": "https://scholar.google.com/scholar?cites=9554850098651802387&as_sdt=2005&sciodt=0,5&hl=pl",
+        "id": 66,
+        "cites": []
+    },
+    {
+        "title": "A flexible analytic wavelet transform based approach for motor-imagery tasks classification in BCI applications",
+        "title_link": "https://www.sciencedirect.com/science/article/pii/S016926071930505X",
+        "displayed_link": "S Chaudhary, S Taran, V Bajaj, S Siuly - Computer methods and programs …, 2020 - Elsevier",
+        "cited_by_count": "Cytowane przez 84",
+        "cited_link": "https://scholar.google.com/scholar?cites=3632153176095208915&as_sdt=2005&sciodt=0,5&hl=pl",
+        "id": 67,
+        "cites": []
+    },
+    {
+        "title": "Towards a hybrid BCI gaming paradigm based on motor imagery and SSVEP",
+        "title_link": "https://www.tandfonline.com/doi/abs/10.1080/10447318.2018.1445068",
+        "displayed_link": "Z Wang, Y Yu, M Xu, Y Liu, E Yin… - International Journal of …, 2019 - Taylor & Francis",
+        "cited_by_count": "Cytowane przez 92",
+        "cited_link": "https://scholar.google.com/scholar?cites=3640844297692365206&as_sdt=2005&sciodt=0,5&hl=pl",
+        "id": 68,
+        "cites": []
+    },
+    {
+        "title": "Motor imagery based EEG features visualization for BCI applications",
+        "title_link": "https://www.sciencedirect.com/science/article/pii/S1877050918313358",
+        "displayed_link": "M Tariq, PM Trivailo, M Simic - Procedia computer science, 2018 - Elsevier",
+        "cited_by_count": "Cytowane przez 22",
+        "cited_link": "https://scholar.google.com/scholar?cites=6079343229575073714&as_sdt=2005&sciodt=0,5&hl=pl",
+        "id": 69,
+        "cites": []
+    },
+    {
+        "title": "The impact of different visual feedbacks in user training on motor imagery control in BCI",
+        "title_link": "https://link.springer.com/article/10.1007/s10484-017-9383-z",
+        "displayed_link": "D Zapała, P Francuz, E Zapała, N Kopiś… - Applied …, 2018 - Springer",
+        "cited_by_count": "Cytowane przez 49",
+        "cited_link": "https://scholar.google.com/scholar?cites=18113074616017314142&as_sdt=2005&sciodt=0,5&hl=pl",
+        "id": 70,
+        "cites": []
+    },
+    {
+        "title": "A shallow mirror transformer for subject-independent motor imagery BCI",
+        "title_link": "https://www.sciencedirect.com/science/article/pii/S0010482523007199",
+        "displayed_link": "J Luo, Y Wang, S Xia, N Lu, X Ren, Z Shi… - Computers in Biology and …, 2023 - Elsevier",
+        "cited_by_count": "Cytowane przez 22",
+        "cited_link": "https://scholar.google.com/scholar?cites=15821874603670135586&as_sdt=2005&sciodt=0,5&hl=pl",
+        "id": 71,
+        "cites": []
+    },
+    {
+        "title": "Feature weighting and regularization of common spatial patterns in EEG-based motor imagery BCI",
+        "title_link": "https://ieeexplore.ieee.org/abstract/document/8331858/",
+        "displayed_link": "V Mishuhina, X Jiang - IEEE Signal Processing Letters, 2018 - ieeexplore.ieee.org",
+        "cited_by_count": "Cytowane przez 93",
+        "cited_link": "https://scholar.google.com/scholar?cites=13934797836273392940&as_sdt=2005&sciodt=0,5&hl=pl",
+        "id": 72,
+        "cites": []
+    },
+    {
+        "title": "PSO-based feature selection and neighborhood rough set-based classification for BCI multiclass motor imagery task",
+        "title_link": "https://link.springer.com/article/10.1007/s00521-016-2236-5",
+        "displayed_link": "S Udhaya Kumar, H Hannah Inbarani - Neural Computing and …, 2017 - Springer",
+        "cited_by_count": "Cytowane przez 115",
+        "cited_link": "https://scholar.google.com/scholar?cites=3292987469700792411&as_sdt=2005&sciodt=0,5&hl=pl",
+        "id": 73,
+        "cites": []
+    },
+    {
+        "title": "Poor BCI performers still could benefit from motor imagery training",
+        "title_link": "https://link.springer.com/chapter/10.1007/978-3-319-39955-3_5",
+        "displayed_link": "A Kaplan, A Vasilyev, S Liburkina… - … , AC 2016, Held as Part of …, 2016 - Springer",
+        "cited_by_count": "Cytowane przez 28",
+        "cited_link": "https://scholar.google.com/scholar?cites=18226919188421852289&as_sdt=2005&sciodt=0,5&hl=pl",
+        "id": 74,
+        "cites": []
+    },
+    {
+        "title": "Zero-shot learning for EEG classification in motor imagery-based BCI system",
+        "title_link": "https://ieeexplore.ieee.org/abstract/document/9207741/",
+        "displayed_link": "L Duan, J Li, H Ji, Z Pang, X Zheng, R Lu… - … on Neural Systems …, 2020 - ieeexplore.ieee.org",
+        "cited_by_count": "Cytowane przez 31",
+        "cited_link": "https://scholar.google.com/scholar?cites=9258863163803005365&as_sdt=2005&sciodt=0,5&hl=pl",
+        "id": 75,
+        "cites": []
+    },
+    {
+        "title": "A low cost EEG based BCI prosthetic using motor imagery",
+        "title_link": "https://arxiv.org/abs/1603.02869",
+        "displayed_link": "D Elstob, EL Secco - arXiv preprint arXiv:1603.02869, 2016 - arxiv.org",
+        "cited_by_count": "Cytowane przez 58",
+        "cited_link": "https://scholar.google.com/scholar?cites=12144693648213787595&as_sdt=2005&sciodt=0,5&hl=pl",
+        "id": 76,
+        "cites": []
+    },
+    {
+        "title": "Using a motor imagery questionnaire to estimate the performance of a brain–computer interface based on object oriented motor imagery",
+        "title_link": "https://www.sciencedirect.com/science/article/pii/S1388245713001120",
+        "displayed_link": "A Vuckovic, BA Osuagwu - Clinical Neurophysiology, 2013 - Elsevier",
+        "cited_by_count": "Cytowane przez 127",
+        "cited_link": "https://scholar.google.com/scholar?cites=15667810493660411029&as_sdt=2005&sciodt=0,5&hl=pl",
+        "id": 77,
+        "cites": []
+    },
+    {
+        "title": "[PDF][PDF] Pattern recognition of motor imagery EEG using wavelet transform",
+        "title_link": "https://file.scirp.org/pdf/JBiSE20080100010_62019062.pdf",
+        "displayed_link": "BG Xu, AG Song - Journal of Biomedical Science and Engineering, 2008 - file.scirp.org",
+        "cited_by_count": "Cytowane przez 115",
+        "cited_link": "https://scholar.google.com/scholar?cites=3295983728021655959&as_sdt=2005&sciodt=0,5&hl=pl",
+        "id": 78,
+        "cites": []
+    },
+    {
+        "title": "A large clinical study on the ability of stroke patients to use an EEG-based motor imagery brain-computer interface",
+        "title_link": "https://journals.sagepub.com/doi/abs/10.1177/155005941104200411",
+        "displayed_link": "KK Ang, C Guan, KSG Chua, BT Ang… - Clinical EEG and …, 2011 - journals.sagepub.com",
+        "cited_by_count": "Cytowane przez 337",
+        "cited_link": "https://scholar.google.com/scholar?cites=6303440933202682763&as_sdt=2005&sciodt=0,5&hl=pl",
+        "id": 79,
+        "cites": []
+    },
+    {
+        "title": "Multiresolution analysis over graphs for a motor imagery based online BCI game",
+        "title_link": "https://www.sciencedirect.com/science/article/pii/S0010482515003583",
+        "displayed_link": "J Asensio-Cubero, JQ Gan, R Palaniappan - Computers in biology and …, 2016 - Elsevier",
+        "cited_by_count": "Cytowane przez 52",
+        "cited_link": "https://scholar.google.com/scholar?cites=5178158403961125881&as_sdt=2005&sciodt=0,5&hl=pl",
+        "id": 80,
+        "cites": []
+    },
+    {
+        "title": "Improving motor imagery classification with a new BCI design using neuro-fuzzy S-dFasArt",
+        "title_link": "https://ieeexplore.ieee.org/abstract/document/6044720/",
+        "displayed_link": "JM Cano-Izquierdo, J Ibarrola… - IEEE Transactions on …, 2011 - ieeexplore.ieee.org",
+        "cited_by_count": "Cytowane przez 45",
+        "cited_link": "https://scholar.google.com/scholar?cites=15899807865767864938&as_sdt=2005&sciodt=0,5&hl=pl",
+        "id": 81,
+        "cites": []
+    },
+    {
+        "title": "A motor imagery based brain-computer interface for stroke rehabilitation",
+        "title_link": "https://ebooks.iospress.nl/doi/10.3233/978-1-61499-121-2-319",
+        "displayed_link": "R Ortner, DC Irimia, J Scharinger… - Annual Review of …, 2012 - ebooks.iospress.nl",
+        "cited_by_count": "Cytowane przez 96",
+        "cited_link": "https://scholar.google.com/scholar?cites=6055222354123604635&as_sdt=2005&sciodt=0,5&hl=pl",
+        "id": 82,
+        "cites": []
+    },
+    {
+        "title": "A comprehensive review on critical issues and possible solutions of motor imagery based electroencephalography brain-computer interface",
+        "title_link": "https://www.mdpi.com/1424-8220/21/6/2173",
+        "displayed_link": "A Singh, AA Hussain, S Lal, HW Guesgen - Sensors, 2021 - mdpi.com",
+        "cited_by_count": "Cytowane przez 120",
+        "cited_link": "https://scholar.google.com/scholar?cites=16847683530709832238&as_sdt=2005&sciodt=0,5&hl=pl",
+        "id": 83,
+        "cites": []
+    },
+    {
+        "title": "A voting optimized strategy based on ELM for improving classification of motor imagery BCI data",
+        "title_link": "https://link.springer.com/article/10.1007/s12559-014-9264-1",
+        "displayed_link": "L Duan, H Zhong, J Miao, Z Yang, W Ma… - Cognitive Computation, 2014 - Springer",
+        "cited_by_count": "Cytowane przez 65",
+        "cited_link": "https://scholar.google.com/scholar?cites=11263266846649858507&as_sdt=2005&sciodt=0,5&hl=pl",
+        "id": 84,
+        "cites": []
+    },
+    {
+        "title": "How many people can control a motor imagery based BCI using common spatial patterns?",
+        "title_link": "https://ieeexplore.ieee.org/abstract/document/7146595/",
+        "displayed_link": "R Ortner, J Scharinger, A Lechner… - 2015 7th International …, 2015 - ieeexplore.ieee.org",
+        "cited_by_count": "Cytowane przez 34",
+        "cited_link": "https://scholar.google.com/scholar?cites=16543178468561947899&as_sdt=2005&sciodt=0,5&hl=pl",
+        "id": 85,
+        "cites": []
+    },
+    {
+        "title": "Bringing BCI into everyday life: Motor imagery in a pseudo realistic environment",
+        "title_link": "https://ieeexplore.ieee.org/abstract/document/7146600/",
+        "displayed_link": "S Brandl, J Höhne, KR Müller… - 2015 7th International …, 2015 - ieeexplore.ieee.org",
+        "cited_by_count": "Cytowane przez 27",
+        "cited_link": "https://scholar.google.com/scholar?cites=17338229889759444476&as_sdt=2005&sciodt=0,5&hl=pl",
+        "id": 86,
+        "cites": []
+    },
+    {
+        "title": "A step-by-step tutorial for a motor imagery–based BCI",
+        "title_link": "https://www.taylorfrancis.com/chapters/edit/10.1201/9781351231954-23/step-step-tutorial-motor-imagery%E2%80%93based-bci-hohyun-cho-minkyu-ahn-moonyoung-kwon-sung-chan-jun",
+        "displayed_link": "H Cho, M Ahn, M Kwon, SC Jun - Brain–Computer Interfaces …, 2018 - taylorfrancis.com",
+        "cited_by_count": "Cytowane przez 19",
+        "cited_link": "https://scholar.google.com/scholar?cites=11475418155515803340&as_sdt=2005&sciodt=0,5&hl=pl",
+        "id": 87,
+        "cites": []
+    },
+    {
+        "title": "Evaluating openbci spiderclaw v1 headwear's electrodes placements for brain-computer interface (BCI) motor imagery application",
+        "title_link": "https://www.sciencedirect.com/science/article/pii/S1877050915036169",
+        "displayed_link": "H Suryotrisongko, F Samopa - Procedia Computer Science, 2015 - Elsevier",
+        "cited_by_count": "Cytowane przez 42",
+        "cited_link": "https://scholar.google.com/scholar?cites=8557092678306712289&as_sdt=2005&sciodt=0,5&hl=pl",
+        "id": 88,
+        "cites": []
+    },
+    {
+        "title": "A novel deep learning approach for classification of EEG motor imagery signals",
+        "title_link": "https://iopscience.iop.org/article/10.1088/1741-2560/14/1/016003/meta",
+        "displayed_link": "YR Tabar, U Halici - Journal of neural engineering, 2016 - iopscience.iop.org",
+        "cited_by_count": "Cytowane przez 946",
+        "cited_link": "https://scholar.google.com/scholar?cites=12837941640819555256&as_sdt=2005&sciodt=0,5&hl=pl",
+        "id": 89,
+        "cites": []
+    },
+    {
+        "title": "Motor imagery and EEG-based control of spelling devices and neuroprostheses",
+        "title_link": "https://www.sciencedirect.com/science/article/pii/S0079612306590259",
+        "displayed_link": "C Neuper, GR Müller-Putz, R Scherer… - Progress in brain …, 2006 - Elsevier",
+        "cited_by_count": "Cytowane przez 273",
+        "cited_link": "https://scholar.google.com/scholar?cites=15510349656720420276&as_sdt=2005&sciodt=0,5&hl=pl",
+        "id": 90,
+        "cites": []
+    },
+    {
+        "title": "Investigating effects of different artefact types on motor imagery BCI",
+        "title_link": "https://ieeexplore.ieee.org/abstract/document/7318764/",
+        "displayed_link": "L Frølich, I Winkler, KR Müller… - 2015 37th Annual …, 2015 - ieeexplore.ieee.org",
+        "cited_by_count": "Cytowane przez 22",
+        "cited_link": "https://scholar.google.com/scholar?cites=17942496281386546072&as_sdt=2005&sciodt=0,5&hl=pl",
+        "id": 91,
+        "cites": []
+    },
+    {
+        "title": "A clinical study of motor imagery-based brain-computer interface for upper limb robotic rehabilitation",
+        "title_link": "https://ieeexplore.ieee.org/abstract/document/5335381/",
+        "displayed_link": "KK Ang, C Guan, KSG Chua, BT Ang… - … conference of the …, 2009 - ieeexplore.ieee.org",
+        "cited_by_count": "Cytowane przez 200",
+        "cited_link": "https://scholar.google.com/scholar?cites=2790354326954502523&as_sdt=2005&sciodt=0,5&hl=pl",
+        "id": 92,
+        "cites": []
+    },
+    {
+        "title": "A novel method for classification of BCI multi-class motor imagery task based on Dempster–Shafer theory",
+        "title_link": "https://www.sciencedirect.com/science/article/pii/S0020025519300647",
+        "displayed_link": "S Razi, MRK Mollaei, J Ghasemi - Information Sciences, 2019 - Elsevier",
+        "cited_by_count": "Cytowane przez 63",
+        "cited_link": "https://scholar.google.com/scholar?cites=3387942489926195856&as_sdt=2005&sciodt=0,5&hl=pl",
+        "id": 93,
+        "cites": []
+    },
+    {
+        "title": "Neuro-evolutionary approach for optimal selection of EEG channels in motor imagery based BCI application",
+        "title_link": "https://www.sciencedirect.com/science/article/pii/S1746809421002184",
+        "displayed_link": "OP Idowu, O Adelopo, AE Ilesanmi, X Li… - … Signal Processing and …, 2021 - Elsevier",
+        "cited_by_count": "Cytowane przez 29",
+        "cited_link": "https://scholar.google.com/scholar?cites=16716060393398530172&as_sdt=2005&sciodt=0,5&hl=pl",
+        "id": 94,
+        "cites": []
+    },
+    {
+        "title": "A new discriminative common spatial pattern method for motor imagery brain–computer interfaces",
+        "title_link": "https://ieeexplore.ieee.org/abstract/document/5165082/",
+        "displayed_link": "KP Thomas, C Guan, CT Lau… - IEEE transactions on …, 2009 - ieeexplore.ieee.org",
+        "cited_by_count": "Cytowane przez 339",
+        "cited_link": "https://scholar.google.com/scholar?cites=12314204501885712990&as_sdt=2005&sciodt=0,5&hl=pl",
+        "id": 95,
+        "cites": []
+    },
+    {
+        "title": "EEG motor imagery classification using deep learning approaches in naïve BCI users",
+        "title_link": "https://iopscience.iop.org/article/10.1088/2057-1976/acde82/meta",
+        "displayed_link": "CD Guerrero-Mendez, CF Blanco-Diaz… - Biomedical Physics …, 2023 - iopscience.iop.org",
+        "cited_by_count": "Cytowane przez 16",
+        "cited_link": "https://scholar.google.com/scholar?cites=10828808297499334111&as_sdt=2005&sciodt=0,5&hl=pl",
+        "id": 96,
+        "cites": []
+    },
+    {
+        "title": "The performance impact of data augmentation in CSP-based motor-imagery systems for BCI applications",
+        "title_link": "https://www.sciencedirect.com/science/article/pii/S1746809420302974",
+        "displayed_link": "PH Gubert, MH Costa, CD Silva… - … Signal Processing and …, 2020 - Elsevier",
+        "cited_by_count": "Cytowane przez 27",
+        "cited_link": "https://scholar.google.com/scholar?cites=2181950518174016752&as_sdt=2005&sciodt=0,5&hl=pl",
+        "id": 97,
+        "cites": []
+    },
+    {
+        "title": "Classification of motor imagery tasks for BCI with multiresolution analysis and multiobjective feature selection",
+        "title_link": "https://link.springer.com/article/10.1186/s12938-016-0178-x",
+        "displayed_link": "J Ortega, J Asensio-Cubero, JQ Gan, A Ortiz - BioMedical Engineering …, 2016 - Springer",
+        "cited_by_count": "Cytowane przez 49",
+        "cited_link": "https://scholar.google.com/scholar?cites=7740699848899504612&as_sdt=2005&sciodt=0,5&hl=pl",
+        "id": 98,
+        "cites": []
+    },
+    {
+        "title": "Classification of motor imagery tasks for brain-computer interface applications by means of two equivalent dipoles analysis",
+        "title_link": "https://ieeexplore.ieee.org/abstract/document/1439541/",
+        "displayed_link": "B Kamousi, Z Liu, B He - IEEE Transactions on Neural Systems …, 2005 - ieeexplore.ieee.org",
+        "cited_by_count": "Cytowane przez 197",
+        "cited_link": "https://scholar.google.com/scholar?cites=18257100457506869382&as_sdt=2005&sciodt=0,5&hl=pl",
+        "id": 99,
+        "cites": []
+    },
+    {
+        "title": "Adaptation of Common Spatial Patterns based on mental fatigue for motor-imagery BCI",
+        "title_link": "https://www.sciencedirect.com/science/article/pii/S1746809419304100",
+        "displayed_link": "U Talukdar, SM Hazarika, JQ Gan - Biomedical Signal Processing and …, 2020 - Elsevier",
+        "cited_by_count": "Cytowane przez 36",
+        "cited_link": "https://scholar.google.com/scholar?cites=9515013870343522785&as_sdt=2005&sciodt=0,5&hl=pl",
+        "id": 100,
+        "cites": []
+    },
+    {
+        "title": "Developing a motor imagery-based real-time asynchronous hybrid BCI controller for a lower-limb exoskeleton",
+        "title_link": "https://www.mdpi.com/1424-8220/20/24/7309",
+        "displayed_link": "J Choi, KT Kim, JH Jeong, L Kim, SJ Lee, H Kim - Sensors, 2020 - mdpi.com",
+        "cited_by_count": "Cytowane przez 78",
+        "cited_link": "https://scholar.google.com/scholar?cites=2247771528259649210&as_sdt=2005&sciodt=0,5&hl=pl",
+        "id": 101,
+        "cites": []
+    },
+    {
+        "title": "Assessing motor imagery in brain-computer interface training: psychological and neurophysiological correlates",
+        "title_link": "https://www.sciencedirect.com/science/article/pii/S0028393217300519",
+        "displayed_link": "A Vasilyev, S Liburkina, L Yakovlev, O Perepelkina… - Neuropsychologia, 2017 - Elsevier",
+        "cited_by_count": "Cytowane przez 106",
+        "cited_link": "https://scholar.google.com/scholar?cites=5844767823583494044&as_sdt=2005&sciodt=0,5&hl=pl",
+        "id": 102,
+        "cites": []
+    },
+    {
+        "title": "A new method to generate artificial frames using the empirical mode decomposition for an EEG-based motor imagery BCI",
+        "title_link": "https://www.frontiersin.org/articles/10.3389/fnins.2018.00308/full",
+        "displayed_link": "J Dinarès-Ferran, R Ortner, C Guger… - Frontiers in …, 2018 - frontiersin.org",
+        "cited_by_count": "Cytowane przez 70",
+        "cited_link": "https://scholar.google.com/scholar?cites=11196461294672843091&as_sdt=2005&sciodt=0,5&hl=pl",
+        "id": 103,
+        "cites": []
+    },
+    {
+        "title": "Temporal classification of multichannel near-infrared spectroscopy signals of motor imagery for developing a brain–computer interface",
+        "title_link": "https://www.sciencedirect.com/science/article/pii/S1053811906011165",
+        "displayed_link": "R Sitaram, H Zhang, C Guan, M Thulasidas, Y Hoshi… - NeuroImage, 2007 - Elsevier",
+        "cited_by_count": "Cytowane przez 738",
+        "cited_link": "https://scholar.google.com/scholar?cites=16362743763474084252&as_sdt=2005&sciodt=0,5&hl=pl",
+        "id": 104,
+        "cites": []
+    },
+    {
+        "title": "Domain adaptation with source selection for motor-imagery based BCI",
+        "title_link": "https://ieeexplore.ieee.org/abstract/document/8737340/",
+        "displayed_link": "E Jeon, W Ko, HI Suk - … on Brain-Computer Interface (BCI), 2019 - ieeexplore.ieee.org",
+        "cited_by_count": "Cytowane przez 40",
+        "cited_link": "https://scholar.google.com/scholar?cites=17803809988083959398&as_sdt=2005&sciodt=0,5&hl=pl",
+        "id": 105,
+        "cites": []
+    },
+    {
+        "title": "[HTML][HTML] A binary harmony search algorithm as channel selection method for motor imagery-based BCI",
+        "title_link": "https://www.sciencedirect.com/science/article/pii/S0925231221003076",
+        "displayed_link": "B Shi, Q Wang, S Yin, Z Yue, Y Huai, J Wang - Neurocomputing, 2021 - Elsevier",
+        "cited_by_count": "Cytowane przez 34",
+        "cited_link": "https://scholar.google.com/scholar?cites=2049990956113236212&as_sdt=2005&sciodt=0,5&hl=pl",
+        "id": 106,
+        "cites": []
+    },
+    {
+        "title": "An Optimized Channel Selection Method Based on Multifrequency CSP‐Rank for Motor Imagery‐Based BCI System",
+        "title_link": "https://onlinelibrary.wiley.com/doi/abs/10.1155/2019/8068357",
+        "displayed_link": "JK Feng, J Jin, I Daly, J Zhou, Y Niu… - Computational …, 2019 - Wiley Online Library",
+        "cited_by_count": "Cytowane przez 78",
+        "cited_link": "https://scholar.google.com/scholar?cites=2684354988985957879&as_sdt=2005&sciodt=0,5&hl=pl",
+        "id": 107,
+        "cites": []
+    },
+    {
+        "title": "[HTML][HTML] TCACNet: Temporal and channel attention convolutional network for motor imagery classification of EEG-based BCI",
+        "title_link": "https://www.sciencedirect.com/science/article/pii/S0306457322001145",
+        "displayed_link": "X Liu, R Shi, Q Hui, S Xu, S Wang, R Na, Y Sun… - Information Processing …, 2022 - Elsevier",
+        "cited_by_count": "Cytowane przez 42",
+        "cited_link": "https://scholar.google.com/scholar?cites=14119453588524663189&as_sdt=2005&sciodt=0,5&hl=pl",
+        "id": 108,
+        "cites": []
+    },
+    {
+        "title": "A new self-regulated neuro-fuzzy framework for classification of EEG signals in motor imagery BCI",
+        "title_link": "https://ieeexplore.ieee.org/abstract/document/7982748/",
+        "displayed_link": "A Jafarifarmand, MA Badamchizadeh… - IEEE transactions on …, 2017 - ieeexplore.ieee.org",
+        "cited_by_count": "Cytowane przez 79",
+        "cited_link": "https://scholar.google.com/scholar?cites=13440582041895107962&as_sdt=2005&sciodt=0,5&hl=pl",
+        "id": 109,
+        "cites": []
+    },
+    {
+        "title": "A BCI motor imagery experiment based on parametric feature extraction and fisher criterion",
+        "title_link": "https://ieeexplore.ieee.org/abstract/document/6189920/",
+        "displayed_link": "D D'Croz-Baron, JM Ramirez, M Baker… - CONIELECOMP …, 2012 - ieeexplore.ieee.org",
+        "cited_by_count": "Cytowane przez 28",
+        "cited_link": "https://scholar.google.com/scholar?cites=15854713427100905560&as_sdt=2005&sciodt=0,5&hl=pl",
+        "id": 110,
+        "cites": []
+    },
+    {
+        "title": "Two‐phase classification: ANN and A‐SVM classifiers on motor imagery BCI.",
+        "title_link": "https://search.ebscohost.com/login.aspx?direct=true&profile=ehost&scope=site&authtype=crawler&jrnl=15618625&AN=171369585&h=GO5kxT%2BU%2FxU2G5TIlBXRaa6pp2diTW%2FfUU0EOi7k56LEhJce1hafdjMBthAoOOvCbYDgXS4vXzFGYDzop0g0hQ%3D%3D&crl=c",
+        "displayed_link": "RK Mahendran, TR Gadekallu… - Asian Journal of …, 2023 - search.ebscohost.com",
+        "cited_by_count": "Cytowane przez 19",
+        "cited_link": "https://scholar.google.com/scholar?cites=17789882996483963995&as_sdt=2005&sciodt=0,5&hl=pl",
+        "id": 111,
+        "cites": []
+    },
+    {
+        "title": "Long-term kinesthetic motor imagery practice with a BCI: Impacts on user experience, motor cortex oscillations and BCI performances",
+        "title_link": "https://www.sciencedirect.com/science/article/pii/S0747563223001401",
+        "displayed_link": "S Rimbert, S Fleck - Computers in Human Behavior, 2023 - Elsevier",
+        "cited_by_count": "Cytowane przez 11",
+        "cited_link": "https://scholar.google.com/scholar?cites=18227736714968006987&as_sdt=2005&sciodt=0,5&hl=pl",
+        "id": 112,
+        "cites": []
+    },
+    {
+        "title": "Context-aware adaptive spelling in motor imagery BCI",
+        "title_link": "https://iopscience.iop.org/article/10.1088/1741-2560/13/3/036018/meta",
+        "displayed_link": "S Perdikis, R Leeb, J d R Millán - Journal of neural engineering, 2016 - iopscience.iop.org",
+        "cited_by_count": "Cytowane przez 49",
+        "cited_link": "https://scholar.google.com/scholar?cites=5189297695339256797&as_sdt=2005&sciodt=0,5&hl=pl",
+        "id": 113,
+        "cites": []
+    },
+    {
+        "title": "Effect of biased feedback on motor imagery learning in BCI-teleoperation system",
+        "title_link": "https://www.frontiersin.org/articles/10.3389/fnsys.2014.00052/full",
+        "displayed_link": "M Alimardani, S Nishio, H Ishiguro - Frontiers in systems neuroscience, 2014 - frontiersin.org",
+        "cited_by_count": "Cytowane przez 70",
+        "cited_link": "https://scholar.google.com/scholar?cites=10027917273757694195&as_sdt=2005&sciodt=0,5&hl=pl",
+        "id": 114,
+        "cites": []
+    },
+    {
+        "title": "A multi-classification algorithm based on multi-domain information fusion for motor imagery BCI",
+        "title_link": "https://www.sciencedirect.com/science/article/pii/S1746809422007066",
+        "displayed_link": "J Wang, W Chen, M Li - Biomedical Signal Processing and Control, 2023 - Elsevier",
+        "cited_by_count": "Cytowane przez 10",
+        "cited_link": "https://scholar.google.com/scholar?cites=17262539987519201096&as_sdt=2005&sciodt=0,5&hl=pl",
+        "id": 115,
+        "cites": []
+    },
+    {
+        "title": "Parallel spatial–temporal self-attention CNN-based motor imagery classification for BCI",
+        "title_link": "https://www.frontiersin.org/articles/10.3389/fnins.2020.587520/full",
+        "displayed_link": "X Liu, Y Shen, J Liu, J Yang, P Xiong… - Frontiers in neuroscience, 2020 - frontiersin.org",
+        "cited_by_count": "Cytowane przez 61",
+        "cited_link": "https://scholar.google.com/scholar?cites=6530911698853050967&as_sdt=2005&sciodt=0,5&hl=pl",
+        "id": 116,
+        "cites": []
+    },
+    {
+        "title": "EEG-based strategies to detect motor imagery for control and rehabilitation",
+        "title_link": "https://ieeexplore.ieee.org/abstract/document/7802578/",
+        "displayed_link": "KK Ang, C Guan - IEEE Transactions on Neural Systems and …, 2016 - ieeexplore.ieee.org",
+        "cited_by_count": "Cytowane przez 265",
+        "cited_link": "https://scholar.google.com/scholar?cites=1567999961583332223&as_sdt=2005&sciodt=0,5&hl=pl",
+        "id": 117,
+        "cites": []
+    },
+    {
+        "title": "Development of Single‐Channel Hybrid BCI System Using Motor Imagery and SSVEP",
+        "title_link": "https://onlinelibrary.wiley.com/doi/abs/10.1155/2017/3789386",
+        "displayed_link": "LW Ko, SSK Ranga, O Komarov… - Journal of healthcare …, 2017 - Wiley Online Library",
+        "cited_by_count": "Cytowane przez 51",
+        "cited_link": "https://scholar.google.com/scholar?cites=5884631161358753817&as_sdt=2005&sciodt=0,5&hl=pl",
+        "id": 118,
+        "cites": []
+    },
+    {
+        "title": "Long-term stable control of motor-imagery BCI by a locked-in user through adaptive assistance",
+        "title_link": "https://ieeexplore.ieee.org/abstract/document/7801122/",
+        "displayed_link": "S Saeedi, R Chavarriaga… - IEEE Transactions on …, 2016 - ieeexplore.ieee.org",
+        "cited_by_count": "Cytowane przez 47",
+        "cited_link": "https://scholar.google.com/scholar?cites=7164675246892132839&as_sdt=2005&sciodt=0,5&hl=pl",
+        "id": 119,
+        "cites": []
+    },
+    {
+        "title": "EEG classification for multiclass motor imagery BCI",
+        "title_link": "https://ieeexplore.ieee.org/abstract/document/6561736/",
+        "displayed_link": "C Liu, H Wang, Z Lu - 2013 25th Chinese control and decision …, 2013 - ieeexplore.ieee.org",
+        "cited_by_count": "Cytowane przez 25",
+        "cited_link": "https://scholar.google.com/scholar?cites=12016507118706129279&as_sdt=2005&sciodt=0,5&hl=pl",
+        "id": 120,
+        "cites": []
+    },
+    {
+        "title": "Subject inefficiency phenomenon of motor imagery brain-computer interface: Influence factors and potential solutions",
+        "title_link": "https://journals.sagepub.com/doi/abs/10.26599/BSA.2020.9050021",
+        "displayed_link": "R Zhang, F Li, T Zhang, D Yao… - Brain Science …, 2020 - journals.sagepub.com",
+        "cited_by_count": "Cytowane przez 40",
+        "cited_link": "https://scholar.google.com/scholar?cites=11781623438847020212&as_sdt=2005&sciodt=0,5&hl=pl",
+        "id": 121,
+        "cites": []
+    },
+    {
+        "title": "A novel classification method for motor imagery based on Brain-Computer Interface",
+        "title_link": "https://ieeexplore.ieee.org/abstract/document/6889535/",
+        "displayed_link": "CY Chen, CW Wu, CT Lin… - 2014 International joint …, 2014 - ieeexplore.ieee.org",
+        "cited_by_count": "Cytowane przez 39",
+        "cited_link": "https://scholar.google.com/scholar?cites=5310441319131194827&as_sdt=2005&sciodt=0,5&hl=pl",
+        "id": 122,
+        "cites": []
+    },
+    {
+        "title": "Neurophysiological substrates of stroke patients with motor imagery-based brain-computer interface training",
+        "title_link": "https://www.tandfonline.com/doi/abs/10.3109/00207454.2013.850082",
+        "displayed_link": "M Li, Y Liu, Y Wu, S Liu, J Jia… - International Journal of …, 2014 - Taylor & Francis",
+        "cited_by_count": "Cytowane przez 124",
+        "cited_link": "https://scholar.google.com/scholar?cites=7927837837057261873&as_sdt=2005&sciodt=0,5&hl=pl",
+        "id": 123,
+        "cites": []
+    },
+    {
+        "title": "Task Transfer Learning for EEG Classification in Motor Imagery‐Based BCI System",
+        "title_link": "https://onlinelibrary.wiley.com/doi/abs/10.1155/2020/6056383",
+        "displayed_link": "X Zheng, J Li, H Ji, L Duan, M Li, Z Pang… - … Methods in Medicine, 2020 - Wiley Online Library",
+        "cited_by_count": "Cytowane przez 16",
+        "cited_link": "https://scholar.google.com/scholar?cites=7421055875020876184&as_sdt=2005&sciodt=0,5&hl=pl",
+        "id": 124,
+        "cites": []
+    },
+    {
+        "title": "A randomized controlled trial of EEG-based motor imagery brain-computer interface robotic rehabilitation for stroke",
+        "title_link": "https://journals.sagepub.com/doi/abs/10.1177/1550059414522229",
+        "displayed_link": "KK Ang, KSG Chua, KS Phua, C Wang… - Clinical EEG and …, 2015 - journals.sagepub.com",
+        "cited_by_count": "Cytowane przez 607",
+        "cited_link": "https://scholar.google.com/scholar?cites=12913185766282095294&as_sdt=2005&sciodt=0,5&hl=pl",
+        "id": 125,
+        "cites": []
+    },
+    {
+        "title": "Neurofeedback training with a motor imagery-based BCI: neurocognitive improvements and EEG changes in the elderly",
+        "title_link": "https://link.springer.com/article/10.1007/s11517-016-1454-4",
+        "displayed_link": "J Gomez-Pilar, R Corralejo, LF Nicolas-Alonso… - Medical & biological …, 2016 - Springer",
+        "cited_by_count": "Cytowane przez 82",
+        "cited_link": "https://scholar.google.com/scholar?cites=827968876251728581&as_sdt=2005&sciodt=0,5&hl=pl",
+        "id": 126,
+        "cites": []
+    },
+    {
+        "title": "A feasibility study of non-invasive motor-imagery BCI-based robotic rehabilitation for stroke patients",
+        "title_link": "https://ieeexplore.ieee.org/abstract/document/5109285/",
+        "displayed_link": "C Wang, KS Phua, KK Ang, C Guan… - 2009 4th …, 2009 - ieeexplore.ieee.org",
+        "cited_by_count": "Cytowane przez 71",
+        "cited_link": "https://scholar.google.com/scholar?cites=18215288848385549386&as_sdt=2005&sciodt=0,5&hl=pl",
+        "id": 127,
+        "cites": []
+    },
+    {
+        "title": "EEG classification with a sequential decision-making method in motor imagery BCI",
+        "title_link": "https://www.worldscientific.com/doi/abs/10.1142/S0129065717500460",
+        "displayed_link": "R Liu, Y Wang, GI Newman, NV Thakor… - International journal of …, 2017 - World Scientific",
+        "cited_by_count": "Cytowane przez 28",
+        "cited_link": "https://scholar.google.com/scholar?cites=6984481878858217122&as_sdt=2005&sciodt=0,5&hl=pl",
+        "id": 128,
+        "cites": []
+    },
+    {
+        "title": "Unsupervised feature extraction with autoencoders for EEG based multiclass motor imagery BCI",
+        "title_link": "https://www.sciencedirect.com/science/article/pii/S0957417422019194",
+        "displayed_link": "S Phadikar, N Sinha, R Ghosh - Expert Systems with Applications, 2023 - Elsevier",
+        "cited_by_count": "Cytowane przez 34",
+        "cited_link": "https://scholar.google.com/scholar?cites=11613686434652539841&as_sdt=2005&sciodt=0,5&hl=pl",
+        "id": 129,
+        "cites": []
+    },
+    {
+        "title": "Clinical study of neurorehabilitation in stroke using EEG-based motor imagery brain-computer interface with robotic feedback",
+        "title_link": "https://ieeexplore.ieee.org/abstract/document/5626782/",
+        "displayed_link": "KK Ang, C Guan, KSG Chua, BT Ang… - … Conference of the …, 2010 - ieeexplore.ieee.org",
+        "cited_by_count": "Cytowane przez 315",
+        "cited_link": "https://scholar.google.com/scholar?cites=8437216861320510635&as_sdt=2005&sciodt=0,5&hl=pl",
+        "id": 130,
+        "cites": []
+    },
+    {
+        "title": "Is motor-imagery brain-computer interface feasible in stroke rehabilitation?",
+        "title_link": "https://www.sciencedirect.com/science/article/pii/S1934148214000215",
+        "displayed_link": "WP Teo, E Chew - PM&R, 2014 - Elsevier",
+        "cited_by_count": "Cytowane przez 117",
+        "cited_link": "https://scholar.google.com/scholar?cites=3232853434254816954&as_sdt=2005&sciodt=0,5&hl=pl",
+        "id": 131,
+        "cites": []
+    },
+    {
+        "title": "On the deep learning models for EEG-based brain-computer interface using motor imagery",
+        "title_link": "https://ieeexplore.ieee.org/abstract/document/9854857/",
+        "displayed_link": "H Zhu, D Forenzo, B He - IEEE Transactions on Neural …, 2022 - ieeexplore.ieee.org",
+        "cited_by_count": "Cytowane przez 36",
+        "cited_link": "https://scholar.google.com/scholar?cites=5319337379587296966&as_sdt=2005&sciodt=0,5&hl=pl",
+        "id": 132,
+        "cites": []
+    },
+    {
+        "title": "Feature extraction of EEG signal by power spectral density for motor imagery based BCI",
+        "title_link": "https://ieeexplore.ieee.org/abstract/document/9467141/",
+        "displayed_link": "MN Alam, MI Ibrahimy… - 2021 8th International …, 2021 - ieeexplore.ieee.org",
+        "cited_by_count": "Cytowane przez 32",
+        "cited_link": "https://scholar.google.com/scholar?cites=331403933822540652&as_sdt=2005&sciodt=0,5&hl=pl",
+        "id": 133,
+        "cites": []
+    },
+    {
+        "title": "An fNIRS-based motor imagery BCI for ALS: A subject-specific data-driven approach",
+        "title_link": "https://ieeexplore.ieee.org/abstract/document/9262855/",
+        "displayed_link": "SM Hosni, SB Borgheai, J Mclinden… - IEEE Transactions on …, 2020 - ieeexplore.ieee.org",
+        "cited_by_count": "Cytowane przez 36",
+        "cited_link": "https://scholar.google.com/scholar?cites=9884517599284887422&as_sdt=2005&sciodt=0,5&hl=pl",
+        "id": 134,
+        "cites": []
+    },
+    {
+        "title": "Cortical effects of user training in a motor imagery based brain–computer interface measured by fNIRS and EEG",
+        "title_link": "https://www.sciencedirect.com/science/article/pii/S1053811913004564",
+        "displayed_link": "V Kaiser, G Bauernfeind, A Kreilinger, T Kaufmann… - Neuroimage, 2014 - Elsevier",
+        "cited_by_count": "Cytowane przez 225",
+        "cited_link": "https://scholar.google.com/scholar?cites=18256297867660771804&as_sdt=2005&sciodt=0,5&hl=pl",
+        "id": 135,
+        "cites": []
+    },
+    {
+        "title": "EEG-based continuous control of a game using a 3 channel motor imagery BCI: BCI game",
+        "title_link": "https://ieeexplore.ieee.org/abstract/document/5952128/",
+        "displayed_link": "D Coyle, J Garcia, AR Satti… - 2011 IEEE Symposium …, 2011 - ieeexplore.ieee.org",
+        "cited_by_count": "Cytowane przez 115",
+        "cited_link": "https://scholar.google.com/scholar?cites=9123905927106732892&as_sdt=2005&sciodt=0,5&hl=pl",
+        "id": 136,
+        "cites": []
+    },
+    {
+        "title": "Sparse representation-based classification scheme for motor imagery-based brain–computer interface systems",
+        "title_link": "https://iopscience.iop.org/article/10.1088/1741-2560/9/5/056002/meta",
+        "displayed_link": "Y Shin, S Lee, J Lee, HN Lee - Journal of neural engineering, 2012 - iopscience.iop.org",
+        "cited_by_count": "Cytowane przez 103",
+        "cited_link": "https://scholar.google.com/scholar?cites=9992931340255129871&as_sdt=2005&sciodt=0,5&hl=pl",
+        "id": 137,
+        "cites": []
+    },
+    {
+        "title": "Motor imagery data classification for BCI application using wavelet packet feature extraction",
+        "title_link": "https://link.springer.com/chapter/10.1007/978-3-319-12643-2_63",
+        "displayed_link": "IT Hettiarachchi, TT Nguyen, S Nahavandi - Neural Information Processing …, 2014 - Springer",
+        "cited_by_count": "Cytowane przez 37",
+        "cited_link": "https://scholar.google.com/scholar?cites=13486258904454258455&as_sdt=2005&sciodt=0,5&hl=pl",
+        "id": 138,
+        "cites": []
+    },
+    {
+        "title": "A motor imagery BCI experiment using wavelet analysis and spatial patterns feature extraction",
+        "title_link": "https://ieeexplore.ieee.org/abstract/document/6220084/",
+        "displayed_link": "O Carrera-Leon, JM Ramirez… - 2012 workshop on …, 2012 - ieeexplore.ieee.org",
+        "cited_by_count": "Cytowane przez 35",
+        "cited_link": "https://scholar.google.com/scholar?cites=8021005888257576689&as_sdt=2005&sciodt=0,5&hl=pl",
+        "id": 139,
+        "cites": []
+    },
+    {
+        "title": "Feature extraction method based on filter banks and Riemannian tangent space in motor-imagery BCI",
+        "title_link": "https://ieeexplore.ieee.org/abstract/document/9695272/",
+        "displayed_link": "H Fang, J Jin, I Daly, X Wang - IEEE journal of biomedical and …, 2022 - ieeexplore.ieee.org",
+        "cited_by_count": "Cytowane przez 50",
+        "cited_link": "https://scholar.google.com/scholar?cites=5149415983928460113&as_sdt=2005&sciodt=0,5&hl=pl",
+        "id": 140,
+        "cites": []
+    },
+    {
+        "title": "Performance of EEG Motor-Imagery based spatial filtering methods: A BCI study on Stroke patients",
+        "title_link": "https://www.sciencedirect.com/science/article/pii/S1877050920321748",
+        "displayed_link": "A Miladinović, M Ajčević, J Jarmolowska… - Procedia Computer …, 2020 - Elsevier",
+        "cited_by_count": "Cytowane przez 17",
+        "cited_link": "https://scholar.google.com/scholar?cites=12534701102207737480&as_sdt=2005&sciodt=0,5&hl=pl",
+        "id": 141,
+        "cites": []
+    },
+    {
+        "title": "Motor imagery and action observation: modulation of sensorimotor brain rhythms during mental control of a brain–computer interface",
+        "title_link": "https://www.sciencedirect.com/science/article/pii/S1388245708012601",
+        "displayed_link": "C Neuper, R Scherer, S Wriessnegger… - Clinical …, 2009 - Elsevier",
+        "cited_by_count": "Cytowane przez 485",
+        "cited_link": "https://scholar.google.com/scholar?cites=13106505542171854616&as_sdt=2005&sciodt=0,5&hl=pl",
+        "id": 142,
+        "cites": []
+    },
+    {
+        "title": "Motor imagery BCI for upper limb stroke rehabilitation: An evaluation of the EEG recordings using coherence analysis",
+        "title_link": "https://ieeexplore.ieee.org/abstract/document/6609487/",
+        "displayed_link": "SW Tung, C Guan, KK Ang, KS Phua… - 2013 35th Annual …, 2013 - ieeexplore.ieee.org",
+        "cited_by_count": "Cytowane przez 66",
+        "cited_link": "https://scholar.google.com/scholar?cites=4088974078195297810&as_sdt=2005&sciodt=0,5&hl=pl",
+        "id": 143,
+        "cites": []
+    },
+    {
+        "title": "Common spatial pattern and linear discriminant analysis for motor imagery classification",
+        "title_link": "https://ieeexplore.ieee.org/abstract/document/6609178/",
+        "displayed_link": "SL Wu, CW Wu, NR Pal, CY Chen… - … IEEE symposium on …, 2013 - ieeexplore.ieee.org",
+        "cited_by_count": "Cytowane przez 94",
+        "cited_link": "https://scholar.google.com/scholar?cites=13340511326942193994&as_sdt=2005&sciodt=0,5&hl=pl",
+        "id": 144,
+        "cites": []
+    },
+    {
+        "title": "Using a hybrid brain computer interface and virtual reality system to monitor and promote cortical reorganization through motor activity and motor imagery training",
+        "title_link": "https://ieeexplore.ieee.org/abstract/document/6363609/",
+        "displayed_link": "SB i Badia, AG Morgade, H Samaha… - … on Neural Systems …, 2012 - ieeexplore.ieee.org",
+        "cited_by_count": "Cytowane przez 106",
+        "cited_link": "https://scholar.google.com/scholar?cites=17770591517195671509&as_sdt=2005&sciodt=0,5&hl=pl",
+        "id": 145,
+        "cites": []
+    },
+    {
+        "title": "Effects of continuous kinaesthetic feedback based on tendon vibration on motor imagery BCI performance",
+        "title_link": "https://ieeexplore.ieee.org/abstract/document/8010313/",
+        "displayed_link": "M Barsotti, D Leonardis, N Vanello… - … on Neural Systems …, 2017 - ieeexplore.ieee.org",
+        "cited_by_count": "Cytowane przez 53",
+        "cited_link": "https://scholar.google.com/scholar?cites=7447536827892696263&as_sdt=2005&sciodt=0,5&hl=pl",
+        "id": 146,
+        "cites": []
+    },
+    {
+        "title": "EEG classification for motor imagery and resting state in BCI applications using multi-class Adaboost extreme learning machine",
+        "title_link": "https://pubs.aip.org/aip/rsi/article/87/8/085110/845972",
+        "displayed_link": "L Gao, W Cheng, J Zhang, J Wang - Review of scientific instruments, 2016 - pubs.aip.org",
+        "cited_by_count": "Cytowane przez 64",
+        "cited_link": "https://scholar.google.com/scholar?cites=13481433123310154179&as_sdt=2005&sciodt=0,5&hl=pl",
+        "id": 147,
+        "cites": []
+    },
+    {
+        "title": "BCI competition IV–data set I: learning discriminative patterns for self-paced EEG-based motor imagery detection",
+        "title_link": "https://www.frontiersin.org/articles/10.3389/fnins.2012.00007/full",
+        "displayed_link": "H Zhang, C Guan, KK Ang, C Wang… - Frontiers in …, 2012 - frontiersin.org",
+        "cited_by_count": "Cytowane przez 56",
+        "cited_link": "https://scholar.google.com/scholar?cites=13718314755549675259&as_sdt=2005&sciodt=0,5&hl=pl",
+        "id": 148,
+        "cites": []
+    },
+    {
+        "title": "A tensor-based scheme for stroke patients' motor imagery EEG analysis in BCI-FES rehabilitation training",
+        "title_link": "https://www.sciencedirect.com/science/article/pii/S0165027013003853",
+        "displayed_link": "Y Liu, M Li, H Zhang, H Wang, J Li, J Jia, Y Wu… - Journal of neuroscience …, 2014 - Elsevier",
+        "cited_by_count": "Cytowane przez 74",
+        "cited_link": "https://scholar.google.com/scholar?cites=13564461859944795454&as_sdt=2005&sciodt=0,5&hl=pl",
+        "id": 149,
+        "cites": []
+    }
+]
